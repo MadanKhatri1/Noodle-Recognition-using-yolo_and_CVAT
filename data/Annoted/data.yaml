@@ -1,0 +1,5 @@
+path: /home/madan/Machine learning/video_object_detection/data/Annoted
+train: obj_train_data
+val: obj_train_data
+names:
+  0: Noodle
